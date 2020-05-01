@@ -1,4 +1,6 @@
 # mysql_bat
+[![Open Issues](https://img.shields.io/github/issues-raw/at-adityavikram/mysql_bat?style=for-the-badge)](https://www.github.com/at-adityavikram/mysql_bat/issues)
+[![Closed Issues](https://img.shields.io/github/issues-closed-raw/at-adityavikram/mysql_bat?color=green&style=for-the-badge)](https://www.github.com/at-adityavikram/mysql_bat/issues)<br><br>
 mysql databasing macro using batch.
 
 ## How to use
